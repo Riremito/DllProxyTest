@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	DllCanUnloadNow = ResMan_Export_1 @1
+	DllGetClassObject = ResMan_Export_2 @2

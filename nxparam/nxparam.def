@@ -1,0 +1,33 @@
+LIBRARY
+EXPORTS
+	??0NXParam@@QAE@XZ = nxparam_Export_1 @1
+	??1NXParam@@QAE@XZ = nxparam_Export_2 @2
+	??4NXParam@@QAEAAV0@ABV0@@Z = nxparam_Export_3 @3
+	?AnsiToUnicode@NXParam@@SAPA_WPBD@Z = nxparam_Export_4 @4
+	?Clear@NXParam@@QAEXXZ = nxparam_Export_5 @5
+	?Decrypt@NXParam@@AAEHPBD@Z = nxparam_Export_6 @6
+	?DoneWithAnsi@NXParam@@SAXPBD@Z = nxparam_Export_7 @7
+	?DoneWithUnicode@NXParam@@SAXPB_W@Z = nxparam_Export_8 @8
+	?Encrypt@NXParam@@AAEHPAD@Z = nxparam_Export_9 @9
+	?GetHashValue@NXParam@@AAE_JPAXH@Z = nxparam_Export_10 @10
+	?GetParamPtr@NXParam@@AAEHPBD@Z = nxparam_Export_11 @11
+	?GetParamValueA@NXParam@@QAEIPBDPAXI@Z = nxparam_Export_12 @12
+	?GetParamValueW@NXParam@@QAEIPB_WPAXI@Z = nxparam_Export_13 @13
+	?GetTokenA@NXParam@@QAEHPAD@Z = nxparam_Export_14 @14
+	?GetTokenW@NXParam@@QAEHPA_W@Z = nxparam_Export_15 @15
+	?SetHashKey@NXParam@@QAEX_J@Z = nxparam_Export_16 @16
+	?SetParamValue@NXParam@@AAEHIPBDPAXI@Z = nxparam_Export_17 @17
+	?SetParam_AnsiStr@NXParam@@QAEHPBD0@Z = nxparam_Export_18 @18
+	?SetParam_Binary@NXParam@@QAEHPBDPAEI@Z = nxparam_Export_19 @19
+	?SetParam_S16@NXParam@@QAEHPBDF@Z = nxparam_Export_20 @20
+	?SetParam_S32@NXParam@@QAEHPBDH@Z = nxparam_Export_21 @21
+	?SetParam_S64@NXParam@@QAEHPBD_J@Z = nxparam_Export_22 @22
+	?SetParam_S8@NXParam@@QAEHPBDC@Z = nxparam_Export_23 @23
+	?SetParam_U16@NXParam@@QAEHPBDG@Z = nxparam_Export_24 @24
+	?SetParam_U32@NXParam@@QAEHPBDI@Z = nxparam_Export_25 @25
+	?SetParam_U64@NXParam@@QAEHPBD_K@Z = nxparam_Export_26 @26
+	?SetParam_U8@NXParam@@QAEHPBDE@Z = nxparam_Export_27 @27
+	?SetParam_UniStr@NXParam@@QAEHPBD0@Z = nxparam_Export_28 @28
+	?SetTokenA@NXParam@@QAEHPBD@Z = nxparam_Export_29 @29
+	?SetTokenW@NXParam@@QAEHPB_W@Z = nxparam_Export_30 @30
+	?UnicodeToAnsi@NXParam@@SAPADPB_W@Z = nxparam_Export_31 @31

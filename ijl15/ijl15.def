@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+	ijlErrorStr = ijl15_Export_6 @6
+	ijlFree = ijl15_Export_3 @3
+	ijlGetLibVersion = ijl15_Export_1 @1
+	ijlInit = ijl15_Export_2 @2
+	ijlRead = ijl15_Export_4 @4
+	ijlWrite = ijl15_Export_5 @5

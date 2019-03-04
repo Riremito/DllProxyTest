@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+	InitializeFlash = WzFlashRenderer_Export_1 @1
+	InitializeFlashbyDevice = WzFlashRenderer_Export_2 @2
+	IsRenderFlash = WzFlashRenderer_Export_3 @3
+	LoadMediaFile = WzFlashRenderer_Export_4 @4
+	ReleaseFlash = WzFlashRenderer_Export_5 @5
+	RenderFlash = WzFlashRenderer_Export_6 @6

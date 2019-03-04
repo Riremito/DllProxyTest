@@ -1,0 +1,12 @@
+LIBRARY
+EXPORTS
+	DllCanUnloadNow = PCOM_Export_1 @1
+	DllGetClassObject = PCOM_Export_2 @2
+	PcCreateObject = PCOM_Export_3 @3
+	PcFreeUnusedLibraries = PCOM_Export_4 @4
+	PcInitModule = PCOM_Export_5 @5
+	PcPassPackIgnoreProp = PCOM_Export_6 @6
+	PcRootNameSpace = PCOM_Export_7 @7
+	PcSerializeObject = PCOM_Export_8 @8
+	PcSerializeString = PCOM_Export_9 @9
+	PcTermModule = PCOM_Export_10 @10

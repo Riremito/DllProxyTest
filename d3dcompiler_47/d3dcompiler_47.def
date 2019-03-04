@@ -1,0 +1,31 @@
+LIBRARY
+EXPORTS
+	D3DAssemble = d3dcompiler_47_Export_1 @1
+	D3DCompile = d3dcompiler_47_Export_4 @4
+	D3DCompile2 = d3dcompiler_47_Export_3 @3
+	D3DCompileFromFile = d3dcompiler_47_Export_5 @5
+	D3DCompressShaders = d3dcompiler_47_Export_6 @6
+	D3DCreateBlob = d3dcompiler_47_Export_7 @7
+	D3DCreateFunctionLinkingGraph = d3dcompiler_47_Export_8 @8
+	D3DCreateLinker = d3dcompiler_47_Export_9 @9
+	D3DDecompressShaders = d3dcompiler_47_Export_10 @10
+	D3DDisassemble = d3dcompiler_47_Export_13 @13
+	D3DDisassemble10Effect = d3dcompiler_47_Export_11 @11
+	D3DDisassemble11Trace = d3dcompiler_47_Export_12 @12
+	D3DDisassembleRegion = d3dcompiler_47_Export_14 @14
+	D3DGetBlobPart = d3dcompiler_47_Export_15 @15
+	D3DGetDebugInfo = d3dcompiler_47_Export_16 @16
+	D3DGetInputAndOutputSignatureBlob = d3dcompiler_47_Export_17 @17
+	D3DGetInputSignatureBlob = d3dcompiler_47_Export_18 @18
+	D3DGetOutputSignatureBlob = d3dcompiler_47_Export_19 @19
+	D3DGetTraceInstructionOffsets = d3dcompiler_47_Export_20 @20
+	D3DLoadModule = d3dcompiler_47_Export_21 @21
+	D3DPreprocess = d3dcompiler_47_Export_22 @22
+	D3DReadFileToBlob = d3dcompiler_47_Export_23 @23
+	D3DReflect = d3dcompiler_47_Export_24 @24
+	D3DReflectLibrary = d3dcompiler_47_Export_25 @25
+	D3DReturnFailure1 = d3dcompiler_47_Export_26 @26
+	D3DSetBlobPart = d3dcompiler_47_Export_27 @27
+	D3DStripShader = d3dcompiler_47_Export_28 @28
+	D3DWriteBlobToFile = d3dcompiler_47_Export_29 @29
+	DebugSetMute = d3dcompiler_47_Export_2 @2

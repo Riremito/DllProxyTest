@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	DllCanUnloadNow = Gr2D_DX9_Export_1 @1
+	DllGetClassObject = Gr2D_DX9_Export_2 @2

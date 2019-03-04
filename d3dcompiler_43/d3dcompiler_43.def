@@ -1,0 +1,19 @@
+LIBRARY
+EXPORTS
+	D3DAssemble = d3dcompiler_43_Export_1 @1
+	D3DCompile = d3dcompiler_43_Export_3 @3
+	D3DCompressShaders = d3dcompiler_43_Export_4 @4
+	D3DCreateBlob = d3dcompiler_43_Export_5 @5
+	D3DDecompressShaders = d3dcompiler_43_Export_6 @6
+	D3DDisassemble = d3dcompiler_43_Export_8 @8
+	D3DDisassemble10Effect = d3dcompiler_43_Export_7 @7
+	D3DGetBlobPart = d3dcompiler_43_Export_9 @9
+	D3DGetDebugInfo = d3dcompiler_43_Export_10 @10
+	D3DGetInputAndOutputSignatureBlob = d3dcompiler_43_Export_11 @11
+	D3DGetInputSignatureBlob = d3dcompiler_43_Export_12 @12
+	D3DGetOutputSignatureBlob = d3dcompiler_43_Export_13 @13
+	D3DPreprocess = d3dcompiler_43_Export_14 @14
+	D3DReflect = d3dcompiler_43_Export_15 @15
+	D3DReturnFailure1 = d3dcompiler_43_Export_16 @16
+	D3DStripShader = d3dcompiler_43_Export_17 @17
+	DebugSetMute = d3dcompiler_43_Export_2 @2

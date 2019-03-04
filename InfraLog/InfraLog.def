@@ -1,0 +1,13 @@
+LIBRARY
+EXPORTS
+	LogFunc_1 = InfraLog_Export_1 @1
+	LogFunc_10 = InfraLog_Export_2 @2
+	LogFunc_11 = InfraLog_Export_3 @3
+	LogFunc_2 = InfraLog_Export_4 @4
+	LogFunc_3 = InfraLog_Export_5 @5
+	LogFunc_4 = InfraLog_Export_6 @6
+	LogFunc_5 = InfraLog_Export_7 @7
+	LogFunc_6 = InfraLog_Export_8 @8
+	LogFunc_7 = InfraLog_Export_9 @9
+	LogFunc_8 = InfraLog_Export_10 @10
+	LogFunc_9 = InfraLog_Export_11 @11

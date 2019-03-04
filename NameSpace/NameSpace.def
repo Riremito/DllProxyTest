@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	DllCanUnloadNow = NameSpace_Export_1 @1
+	DllGetClassObject = NameSpace_Export_2 @2

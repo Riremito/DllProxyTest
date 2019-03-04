@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	OpenSurveyA = NPS_Export_1 @1
+	OpenSurveyW = NPS_Export_2 @2

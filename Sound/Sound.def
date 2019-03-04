@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	DllCanUnloadNow = Sound_Export_1 @1
+	DllGetClassObject = Sound_Export_2 @2

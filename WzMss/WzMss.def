@@ -1,0 +1,33 @@
+LIBRARY
+EXPORTS
+	WzSoap_CommentArticle = WzMss_Export_1 @1
+	WzSoap_ConsultCheckAnswer = WzMss_Export_2 @2
+	WzSoap_ConsultCheckCreate = WzMss_Export_3 @3
+	WzSoap_ConsultDelete = WzMss_Export_4 @4
+	WzSoap_ConsultGetContent = WzMss_Export_5 @5
+	WzSoap_ConsultGetTitle = WzMss_Export_6 @6
+	WzSoap_ConsultModify = WzMss_Export_7 @7
+	WzSoap_ConsultWrite = WzMss_Export_8 @8
+	WzSoap_DeleteArticle = WzMss_Export_9 @9
+	WzSoap_GetArticleContent = WzMss_Export_10 @10
+	WzSoap_GetArticleOwner = WzMss_Export_11 @11
+	WzSoap_GetArticleTitle = WzMss_Export_12 @12
+	WzSoap_GetInspectionInfo = WzMss_Export_13 @13
+	WzSoap_GetTopArticleID = WzMss_Export_14 @14
+	WzSoap_GetTopArticleTitle = WzMss_Export_15 @15
+	WzSoap_GuildNewBoard_Article_Create = WzMss_Export_16 @16
+	WzSoap_GuildNewBoard_Article_Create_NoImage = WzMss_Export_17 @17
+	WzSoap_GuildNewBoard_Article_Delete = WzMss_Export_18 @18
+	WzSoap_GuildNewBoard_Article_List = WzMss_Export_19 @19
+	WzSoap_GuildNewBoard_Article_Modify = WzMss_Export_20 @20
+	WzSoap_GuildNewBoard_Article_MyList = WzMss_Export_21 @21
+	WzSoap_GuildNewBoard_Article_Recommend = WzMss_Export_22 @22
+	WzSoap_GuildNewBoard_Article_RecommendList = WzMss_Export_23 @23
+	WzSoap_GuildNewBoard_Article_View_Content = WzMss_Export_24 @24
+	WzSoap_GuildNewBoard_Comment_Create = WzMss_Export_25 @25
+	WzSoap_GuildNewBoard_Comment_Delete = WzMss_Export_26 @26
+	WzSoap_GuildNewBoard_Comment_List = WzMss_Export_27 @27
+	WzSoap_MapleNoticeBoard_GetList_Num = WzMss_Export_28 @28
+	WzSoap_MapleTNoticeBoard_GetList_Num = WzMss_Export_29 @29
+	WzSoap_ModifyArticle = WzMss_Export_30 @30
+	WzSoap_WriteArticle = WzMss_Export_31 @31

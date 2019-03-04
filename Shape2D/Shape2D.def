@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	DllCanUnloadNow = Shape2D_Export_1 @1
+	DllGetClassObject = Shape2D_Export_2 @2
